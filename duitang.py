@@ -21,6 +21,9 @@ for fig in figs:
 #     print('Save done\t' + name)
 
 
+
+print("helloworld")
+
 # 文件批量改名
 # import os
 #
