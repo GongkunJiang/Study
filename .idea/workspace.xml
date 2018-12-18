@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bac6342-9f3e-4f03-828b-594549edf8af" name="Default Changelist" comment="" />
+    <list default="true" id="4bac6342-9f3e-4f03-828b-594549edf8af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_exam_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_exam_2.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +14,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Study$final_exam_2.coverage" NAME="final_exam_2 Coverage Results" MODIFIED="1544284812830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code$tencent.coverage" NAME="tencent Coverage Results" MODIFIED="1543997198840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Study$duitang.coverage" NAME="duitang Coverage Results" MODIFIED="1544282179749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -29,14 +36,24 @@
     <favorites_list name="code" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/duitang.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lz5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            <state relative-caret-position="760">
+              <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PLM_imporve.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="29" />
               <folding>
-                <element signature="e#0#51#0" expanded="true" />
+                <element signature="e#45#530#0" />
+                <element signature="e#556#1035#0" />
               </folding>
             </state>
           </provider>
@@ -69,16 +86,22 @@
       <find>风景</find>
       <find>hello</find>
       <find>index</find>
+      <find>m</find>
+      <find>sa</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/response.html" />
-        <option value="$PROJECT_DIR$/final_exam_2.py" />
         <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/lz4.py" />
         <option value="$PROJECT_DIR$/tc_test.py" />
         <option value="$PROJECT_DIR$/tencent.py" />
         <option value="$PROJECT_DIR$/Laplace_mechanism.py" />
@@ -87,12 +110,20 @@
         <option value="$PROJECT_DIR$/weibo_dynamic.py" />
         <option value="$PROJECT_DIR$/lz3.py" />
         <option value="$PROJECT_DIR$/duitang.py" />
+        <option value="$PROJECT_DIR$/final_exam_2.py" />
+        <option value="$PROJECT_DIR$/lz4.py" />
+        <option value="$PROJECT_DIR$/lz5.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="189" />
+    <option name="width" value="1731" />
     <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -100,13 +131,23 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,53 +161,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.duitang">
-    <configuration name="Laplace_mechanism" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Laplace_mechanism.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PLM_imporve" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PLM_imporve.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.lz5">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="code" />
+      <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -188,9 +185,12 @@
       <method v="2" />
     </configuration>
     <configuration name="duitang" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
+      <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -206,27 +206,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lz3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lz3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="weibo_dynamic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
+    <configuration name="final_exam_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -238,7 +219,67 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weibo_dynamic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_exam_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lz4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lz4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lz5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lz5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tencent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tencent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lz5" />
+        <item itemvalue="Python.lz4" />
+        <item itemvalue="Python.tencent" />
+        <item itemvalue="Python.final_exam_2" />
         <item itemvalue="Python.duitang" />
-        <item itemvalue="Python.lz3" />
-        <item itemvalue="Python.weibo_dynamic" />
-        <item itemvalue="Python.PLM_imporve" />
-        <item itemvalue="Python.Laplace_mechanism" />
       </list>
     </recent_temporary>
   </component>
@@ -283,11 +324,33 @@
       <workItem from="1544085874426" duration="1685000" />
       <workItem from="1544087605924" duration="5415000" />
       <workItem from="1544099822753" duration="2441000" />
+      <workItem from="1544180130815" duration="2873000" />
+      <workItem from="1544249929883" duration="17471000" />
+      <workItem from="1544348069858" duration="758000" />
+      <workItem from="1544503510224" duration="384000" />
+      <workItem from="1544518155294" duration="6000" />
+      <workItem from="1544529707395" duration="1368000" />
+      <workItem from="1545137351542" duration="2511000" />
     </task>
+    <task id="LOCAL-00001" summary=" that easy??">
+      <created>1544180521439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544180521439</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" that easy??">
+      <created>1544180982156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544180982156</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53039000" />
+    <option name="totallyTimeSpent" value="78410000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -299,34 +362,89 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1050" extended-state="0" />
+    <frame x="189" y="0" width="1731" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49821427" weight="0.14353313" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49821427" weight="0.19989339" />
       <window_info id="Structure" order="1" sideWeight="0.5017857" side_tool="true" weight="0.1433902" />
       <window_info id="Favorites" order="2" sideWeight="0.5017857" side_tool="true" weight="0.1433902" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.41722596" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.77555555" weight="0.33482644" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.8803132" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005767" side_tool="true" weight="0.41523606" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4994233" visible="true" weight="0.030201342" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.22444445" side_tool="true" weight="0.33482644" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="11" sideWeight="0.4994233" visible="true" weight="0.25531915" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3296371" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49773243" weight="0.32942432" />
       <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
-      <window_info anchor="right" x="0" y="0" width="190" height="850" id="Documentation" order="5" side_tool="true" weight="0.1251549" />
+      <window_info anchor="right" x="0" y="0" width="190" height="850" id="Documentation" order="5" sideWeight="0.5022676" side_tool="true" weight="0.5788889" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" that easy??" />
+    <option name="LAST_COMMIT_MESSAGE" value=" that easy??" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://E:/Anaconda3/Lib/site-packages/numpy/__init__.py" />
@@ -351,16 +469,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/final_exam_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="316" column="32" selection-start-line="316" selection-start-column="26" selection-end-line="316" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_le.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -435,16 +543,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tc_test.py" />
-    <entry file="file://$PROJECT_DIR$/tencent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="260" column="33" selection-start-line="260" selection-start-column="33" selection-end-line="260" selection-end-column="33" />
-          <folding>
-            <element signature="e#1343#1365#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Laplace_mechanism.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -485,17 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PLM_imporve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="e#45#530#0" />
-            <element signature="e#556#1035#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weibo_fans.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -529,10 +616,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/duitang.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        <state relative-caret-position="275">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tencent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="260" column="33" selection-start-line="260" selection-start-column="33" selection-end-line="260" selection-end-column="33" />
+          <folding>
+            <element signature="e#1343#1365#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lz4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1506">
+          <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final_exam_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="234" lean-forward="true" selection-start-line="234" selection-end-line="234" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lz5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PLM_imporve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="29" />
+          <folding>
+            <element signature="e#45#530#0" />
+            <element signature="e#556#1035#0" />
           </folding>
         </state>
       </provider>

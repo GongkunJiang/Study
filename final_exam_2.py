@@ -70,7 +70,7 @@ def double_precision(number):
     # f不满52位右边补0
     if len(f) < 52:
         f += '0' * (52 - len(f))
-    return s, e, f
+    return [s, e, f]
 
 
 def real_number(convert):
@@ -343,8 +343,8 @@ def PLM( x0):
 def PLM_homo():
     x0 = random.random()  # k=4;N=64
     x0_start = x0
-    original = [];
-    converted = [];
+    original = []
+    converted = []
     length = 1000000
     for i in range(length):
         ori = PLM(x0)
@@ -372,8 +372,8 @@ def PLM_homo():
 def PLM_nested():
     x0 = random.random()  # k=4;N=64
     x0_start = x0
-    original = [];
-    converted = [];
+    original = []
+    converted = []
     length = 100000
     for i in range(length):
         ori = PLM(x0)
@@ -399,9 +399,9 @@ def PLM_nested():
 
 
 def Two_Dimensional_Coupled_Map_Lattice():
-    E = 0.2;
-    R = 8;
-    L = 8;
+    E = 0.2
+    R = 8
+    L = 8
     iterations = 100000
     Lattice = []
     # Convert = np.zeros(iterations)
@@ -506,7 +506,7 @@ def Two_Dimensional_Coupled_Map_Lattice_nested():
 
 
 def new_cubic(x):
-    a = 4;
+    a = 4
     N = 64
     i = ((x + 1) * N) / 2
     if i != int(i):
@@ -606,4 +606,13 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    # main()
+    num = -0.5032793119999965
+    dp = double_precision(num)
+    num2 = real_number(dp)
+    # '1010110111010011011100111001011000110100000000000001'
+    f = left_bit_shift(dp[2])[2]
+    dp[2] = f
+    num3 = real_number(dp) # -0.8395038719991136
+    defi = define(f)
+    num4 = b2_x(num)
