@@ -31,11 +31,11 @@ with open(file2, 'w') as f:
 end = time.clock()
 print(end - start)  # 0.11631145017276182
 
-start = time.clock()
-for line in open(file):
-    s = line[-9:]
-    # print(s)
-    with open(file2, 'w') as f:
-        f.write(s)
-end = time.clock()
-print(end - start)  # 92.14758553341565
+# start = time.clock()
+# for line in open(file):
+#     s = line[-9:]
+#     # print(s)
+#     with open(file2, 'a+') as f:
+#         f.write(s)
+# end = time.clock()
+# print(end - start)  # 92.14758553341565

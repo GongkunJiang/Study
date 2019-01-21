@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bac6342-9f3e-4f03-828b-594549edf8af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final_exam_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_exam_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lz5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lz5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tencent.py" beforeDir="false" afterPath="$PROJECT_DIR$/tencent.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +16,7 @@
     <SUITE FILE_PATH="coverage/Study$final_exam_2.coverage" NAME="final_exam_2 Coverage Results" MODIFIED="1544284812830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code$tencent.coverage" NAME="tencent Coverage Results" MODIFIED="1543997198840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Study$duitang.coverage" NAME="duitang Coverage Results" MODIFIED="1544282179749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Study$sort.coverage" NAME="sort Coverage Results" MODIFIED="1546344680033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -36,25 +36,36 @@
     <favorites_list name="code" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lz5.py">
+        <entry file="file://$PROJECT_DIR$/zzq_NIST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+            <state relative-caret-position="434">
+              <caret line="113" selection-start-line="113" selection-end-line="113" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PLM_imporve.py">
+        <entry file="file://$PROJECT_DIR$/zzq_NIST2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="29" />
+            <state relative-caret-position="2090">
+              <caret line="110" column="22" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
               <folding>
-                <element signature="e#45#530#0" />
-                <element signature="e#556#1035#0" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzq3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -88,6 +99,10 @@
       <find>index</find>
       <find>m</find>
       <find>sa</find>
+      <find>self.</find>
+      <find>rever</find>
+      <find>randint</find>
+      <find>dec2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,9 +116,7 @@
       <list>
         <option value="$PROJECT_DIR$/response.html" />
         <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/tc_test.py" />
-        <option value="$PROJECT_DIR$/tencent.py" />
         <option value="$PROJECT_DIR$/Laplace_mechanism.py" />
         <option value="$PROJECT_DIR$/Laplace_distribution.py" />
         <option value="$PROJECT_DIR$/PLM_imporve.py" />
@@ -113,13 +126,22 @@
         <option value="$PROJECT_DIR$/final_exam_2.py" />
         <option value="$PROJECT_DIR$/lz4.py" />
         <option value="$PROJECT_DIR$/lz5.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/sort.py" />
+        <option value="$PROJECT_DIR$/knapsack.py" />
+        <option value="$PROJECT_DIR$/zzq3.py" />
+        <option value="$PROJECT_DIR$/S_box.py" />
+        <option value="$PROJECT_DIR$/tencent.py" />
+        <option value="$PROJECT_DIR$/PLM/zzq_NIST.py" />
+        <option value="$PROJECT_DIR$/zzq_NIST.py" />
+        <option value="$PROJECT_DIR$/zzq_NIST2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="189" />
-    <option name="width" value="1731" />
-    <option name="height" value="1050" />
+    <option name="x" value="865" />
+    <option name="width" value="923" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -161,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lz5">
+  <component name="RunManager" selected="Python.zzq_NIST2">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="duitang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="knapsack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,67 +219,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/duitang.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="final_exam_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_exam_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lz4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lz4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lz5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lz5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knapsack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,13 +250,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="zzq3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zzq3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zzq_NIST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zzq_NIST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zzq_NIST2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zzq_NIST2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lz5" />
-        <item itemvalue="Python.lz4" />
+        <item itemvalue="Python.zzq_NIST2" />
+        <item itemvalue="Python.zzq_NIST" />
         <item itemvalue="Python.tencent" />
-        <item itemvalue="Python.final_exam_2" />
-        <item itemvalue="Python.duitang" />
+        <item itemvalue="Python.zzq3" />
+        <item itemvalue="Python.knapsack" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +358,27 @@
       <workItem from="1544503510224" duration="384000" />
       <workItem from="1544518155294" duration="6000" />
       <workItem from="1544529707395" duration="1368000" />
-      <workItem from="1545137351542" duration="2511000" />
+      <workItem from="1545137351542" duration="2701000" />
+      <workItem from="1545140347794" duration="1110000" />
+      <workItem from="1545188544509" duration="379000" />
+      <workItem from="1545288016081" duration="564000" />
+      <workItem from="1545740728046" duration="31000" />
+      <workItem from="1545741144963" duration="774000" />
+      <workItem from="1545742296774" duration="18000" />
+      <workItem from="1545800614948" duration="1720000" />
+      <workItem from="1545809658491" duration="638000" />
+      <workItem from="1546341053785" duration="4779000" />
+      <workItem from="1546869205614" duration="127000" />
+      <workItem from="1546954578253" duration="2007000" />
+      <workItem from="1546993501019" duration="2642000" />
+      <workItem from="1547025225388" duration="7333000" />
+      <workItem from="1547097872161" duration="759000" />
+      <workItem from="1547109208492" duration="34000" />
+      <workItem from="1547119363873" duration="3023000" />
+      <workItem from="1547126041483" duration="198000" />
+      <workItem from="1547128092306" duration="1530000" />
+      <workItem from="1547164969809" duration="13025000" />
+      <workItem from="1547877657936" duration="12164000" />
     </task>
     <task id="LOCAL-00001" summary=" that easy??">
       <created>1544180521439</created>
@@ -350,7 +398,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78410000" />
+    <option name="totallyTimeSpent" value="131257000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -362,31 +410,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="189" y="0" width="1731" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="865" y="0" width="923" height="1020" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49821427" weight="0.19989339" />
-      <window_info id="Structure" order="1" sideWeight="0.5017857" side_tool="true" weight="0.1433902" />
-      <window_info id="Favorites" order="2" sideWeight="0.5017857" side_tool="true" weight="0.1433902" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49821427" visible="true" weight="0.36037078" />
+      <window_info id="Structure" order="1" sideWeight="0.5017857" side_tool="true" weight="0.14303105" />
+      <window_info id="Favorites" order="2" sideWeight="0.5017857" side_tool="true" weight="0.14303105" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.41722596" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.52519596" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32893288" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.77555555" weight="0.33482644" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.8803132" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.22444445" side_tool="true" weight="0.33482644" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="11" sideWeight="0.4994233" visible="true" weight="0.25531915" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.88017917" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.31170335" side_tool="true" visible="true" weight="0.20278099" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.6882966" visible="true" weight="0.20278099" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49773243" weight="0.32942432" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
-      <window_info anchor="right" x="0" y="0" width="190" height="850" id="Documentation" order="5" sideWeight="0.5022676" side_tool="true" weight="0.5788889" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49773243" side_tool="true" weight="0.34298956" />
+      <window_info anchor="right" id="Database" order="4" side_tool="true" weight="0.32988435" />
+      <window_info anchor="right" x="0" y="0" width="190" height="850" id="Documentation" order="5" sideWeight="0.5022676" side_tool="true" weight="0.1913646" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,7 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/test_le.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -593,16 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weibo_dynamic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lz3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -631,50 +667,150 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tencent.py">
+    <entry file="file://$PROJECT_DIR$/PLM_imporve.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="260" column="33" selection-start-line="260" selection-start-column="33" selection-end-line="260" selection-end-column="33" />
+        <state relative-caret-position="418">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
           <folding>
-            <element signature="e#1343#1365#0" />
+            <element signature="e#45#530#0" />
+            <element signature="e#556#1035#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lz4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1506">
+        <state relative-caret-position="-72">
           <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#603#646#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/final_exam_2.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weibo_dynamic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="234" lean-forward="true" selection-start-line="234" selection-end-line="234" />
+        <state relative-caret-position="414">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lz5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+        <state relative-caret-position="466">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#671#693#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PLM_imporve.py">
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://E:/Anaconda3/Lib/site-packages/IPython/core/interactiveshell.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="29" />
+        <state relative-caret-position="126">
+          <caret line="2880" selection-start-line="2880" selection-end-line="2880" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_umd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="218" lean-forward="true" selection-start-line="218" selection-end-line="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-791851423/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="5066" column="8" selection-start-line="5066" selection-start-column="8" selection-end-line="5066" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final_exam_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="247" column="32" selection-start-line="247" selection-start-column="32" selection-end-line="247" selection-end-column="32" />
           <folding>
-            <element signature="e#45#530#0" />
-            <element signature="e#556#1035#0" />
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S_box.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tencent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PLM/zzq_NIST.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzq3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzq_NIST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzq_NIST2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="110" column="22" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

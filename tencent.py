@@ -3,7 +3,7 @@ import time, requests, re, os
 
 browser = Chrome(r"E:\JetBrains\browser\chromedriver.exe")
 url = "https://qzone.qq.com/"
-path = r"C:\Users\Administrator.YLMF-20150729SV\Desktop\qzone"
+path = r"E:\Data\qzone"
 browser.get(url)
 # browser.fullscreen_window()
 while browser.current_url == url:
